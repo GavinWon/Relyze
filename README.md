@@ -5,5 +5,5 @@ A natural language processing (NLP) machine learning model that takes some type 
 Built using Bag of Worlds Model from Natural Language ToolKit Module and Naive Bayes Classifier
 
 ## Model Chart
-<img src="https://github.com/GavinWon/Realyze/blob/master/realyzescreen.PNG" alt="Model Chart" width=300>
+<img src="https://github.com/GavinWon/Realyze/blob/master/realyzescreen.png" alt="Model Chart" width=300>
 
